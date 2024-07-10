@@ -1,4 +1,4 @@
-/*
+ /*
  * Filename:   MorseCodeTranslate.c
  * Author:      Christopher Bergsveinsson
  * Date:        6/14/24
